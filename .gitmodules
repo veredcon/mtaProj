@@ -1,0 +1,3 @@
+[submodule "xsjs"]
+	path = xsjs
+	url = https://github.wdf.sap.corp/xs2/xsjs.git
